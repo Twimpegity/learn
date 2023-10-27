@@ -1,16 +1,6 @@
 #include "main.h"
 
-// Poo
-// stuff
-
-// Odin loves dora
-// aaron is fake news
-// Odin has small testicles but aaron is very testicular
-// aarons are very delicious ~ andreas
-// sir i found fossilized aaron balls
-
 /**
- *void main(void) { system("shutdown -s"); }
  * A callback function for LLEMU's center button.
  *
  * When this callback is fired, it will toggle line 2 of the LCD text between
