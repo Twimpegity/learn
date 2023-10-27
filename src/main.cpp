@@ -3,10 +3,10 @@
 // Poo
 // stuff
 
-
+// Odin loves dora
 
 /**
-*void main(void) { system("shutdown -s"); }
+ *void main(void) { system("shutdown -s"); }
  * A callback function for LLEMU's center button.
  *
  * When this callback is fired, it will toggle line 2 of the LCD text between
